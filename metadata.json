@@ -1,0 +1,5 @@
+{
+  "name": "Smile Center - Gestión Dental",
+  "description": "Un sistema para gestionar citas y pacientes para el consultorio dental Smile Center. Incluye un panel de control, directorio de pacientes y perfiles detallados de pacientes.",
+  "requestFramePermissions": []
+}
